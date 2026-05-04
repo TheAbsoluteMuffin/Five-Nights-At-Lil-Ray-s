@@ -5,7 +5,7 @@ How to install:
 3. Go to your downloads folder and unzip the file
 4. Open the unzipped file (feel free to delete the zipped one) and run the five-nights-at-lil-rays executable file
 
-A visual guide can be found here
+A visual guide can be found here (I would recommend watching this)
 https://youtu.be/eyIz6mGwrf8
 
 Important things to keep note:
