@@ -1,10 +1,9 @@
 # Five Nights At Lil Ray's
 How to install:
-1. Download the latest release (there will only be one but i gotta stay to the formula here)
-2. Unzip the file (you can they delete the original zip file if you wish to do so)
-3. run the exe file
+1. Go to the release that contains the file for your device (currently the game is only available on PC so that shouldn't be too hard lol)
+2. Download the sourcecode.zip file
+3. Go to your downloads folder and unzip the file
+4. Open the unzipped file (feel free to delete the zipped one) and run the five-nights-at-lil-rays executable file
 
-If you still can't get the hang of it a visual guide can be found here:
-
-
-Enjoy the game!
+A visual guide can be found here
+https://youtu.be/eyIz6mGwrf8
